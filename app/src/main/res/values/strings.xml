@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Trivia_V2</string>
+    <string name="true_button_text">True</string>
+    <string name="false_button_text">False</string>
+    <string name="prev_button_text">Previous</string>
+    <string name="next_button_text">Next</string>
+    <string name="placeholder">Question goes here</string>
+    <string name="todo">TODO</string>
+
+    <string name="q_danie">Daniel ist der schoenste auf der Welt </string>
+    <string name="q_eupen">Eupen ist ein Dorf </string>
+    <string name="q_iq"> iq WIRD EINEM VON gOTT GEGBEN </string>
+    <string name="q_wetter">Es regnet </string>
+    <string name="q_feuer">Feuer ist warm </string>
+    <string name="q_cannabis">rauchen kann man auch wenn es kalt ist </string>
+    <string name="q_correct">Thats correct </string>
+    <string name="q_false">Thats incorrect </string>
+
+</resources>
