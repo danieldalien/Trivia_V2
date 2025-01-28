@@ -11,6 +11,7 @@ public class Question {
     }
 
     public int getAnswerResId() {
+        int d = 0;
         return answerResId;
     }
 
